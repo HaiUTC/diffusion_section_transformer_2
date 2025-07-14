@@ -1,0 +1,16 @@
+{
+  "screenshot": "data/68738219bf939d5d7137a831/sc_screenshot_mc8tlrts7d0p.png",
+  "category": "Hero",
+  "html": "{\"header@bc_#fff@c_#000_\":{\"div@pl_5p@pr_5p_\":{\"div@w_100p@xw_80r@ml_auto@mr_auto_\":{\"div@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"div_\":{\"div@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_5r@gr_4x@gtr_auto@gtc_1f_1f@ai_center@d_grid@t:gr_4r@t:gtc_1f@t:mh_auto@m:gr_3r@m:gtc_1f_\":{\"div@br_0@ov_hidden_\":{\"img@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv587\"}},\"div_\":{\"div@mt_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"h1@fs_3.5r@fw_700@lh_1.2@t:fs_3.25r@m:fs_2.5r_\":{\"text\":\"xv570\"}},\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv590\"},\"div@mb_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@gc_1r@gr_1r@fw_wrap@ai_center@d_flex_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv898\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv832\"}}}}}}}}}}}",
+  "section_layout": "{\"section@bc_#fff@c_#000@pl_5p@pr_5p@w_100p@xw_80r@ml_auto@mr_auto@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"grid@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_5r@gr_4x@gtr_auto@gtc_1f_1f@ai_center@d_grid@t:gr_4r@t:gtc_1f@t:mh_auto@m:gr_3r@m:gtc_1f_\":{\"column_\":{\"wrapper@br_0@ov_hidden_\":{\"image@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv587\"}}},\"column_\":{\"wrapper_\":{\"wrapper@mt_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"heading@fs_3.5r@fw_700@lh_1.2@t:fs_3.25r@m:fs_2.5r_\":{\"text\":\"xv570\"}},\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv590\"},\"wrapper@mb_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@gc_1r@gr_1r@fw_wrap@ai_center@d_flex_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv898\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv832\"}}}}}}}",
+  "elements_used": [
+    "section",
+    "grid",
+    "column",
+    "wrapper",
+    "image",
+    "heading",
+    "paragraph",
+    "button"
+  ]
+}

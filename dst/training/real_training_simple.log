@@ -1,0 +1,634 @@
+2025-07-12 16:37:19,488 - INFO - Creating datasets...
+2025-07-12 16:37:19,488 - INFO - Found 5 example directories
+2025-07-12 16:37:19,489 - INFO - Building vocabulary from dataset...
+2025-07-12 16:37:19,490 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:37:19,490 - INFO - Loaded 5 samples for all
+2025-07-12 16:37:19,490 - INFO - Vocabulary size: 235
+2025-07-12 16:37:19,490 - INFO - Found 5 example directories
+2025-07-12 16:37:19,490 - INFO - Building vocabulary from dataset...
+2025-07-12 16:37:19,491 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:37:19,492 - INFO - Loaded 5 samples for train
+2025-07-12 16:37:19,492 - INFO - Vocabulary size: 235
+2025-07-12 16:37:19,492 - INFO - Found 5 example directories
+2025-07-12 16:37:19,492 - INFO - Building vocabulary from dataset...
+2025-07-12 16:37:19,493 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:37:19,493 - INFO - Loaded 5 samples for val
+2025-07-12 16:37:19,493 - INFO - Vocabulary size: 235
+2025-07-12 16:37:19,493 - INFO - Found 5 example directories
+2025-07-12 16:37:19,493 - INFO - Building vocabulary from dataset...
+2025-07-12 16:37:19,495 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:37:19,495 - INFO - Loaded 5 samples for test
+2025-07-12 16:37:19,495 - INFO - Vocabulary size: 235
+2025-07-12 16:37:19,495 - INFO - Created splits: train=4, val=1, test=0
+2025-07-12 16:37:19,495 - INFO - Creating models...
+2025-07-12 16:37:19,583 - INFO - Total parameters: 11,562,355
+2025-07-12 16:37:19,584 - INFO - Starting training for 3 epochs
+2025-07-12 16:37:19,584 - INFO - Train samples: 4
+2025-07-12 16:37:19,584 - INFO - Val samples: 1
+2025-07-12 16:37:19,584 - INFO - 
+Epoch 1/3
+2025-07-12 16:37:19,584 - INFO - ----------------------------------------
+2025-07-12 16:37:19,771 - ERROR - Error in batch 0: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:19,926 - ERROR - Error in batch 1: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:20,067 - ERROR - Error in batch 2: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:20,214 - ERROR - Error in batch 3: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:20,346 - ERROR - Error in validation: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:20,346 - INFO - Train Loss: inf
+2025-07-12 16:37:20,346 - INFO - Val Loss: inf
+2025-07-12 16:37:20,346 - INFO - Train F1: 0.0000
+2025-07-12 16:37:20,346 - INFO - Val F1: 0.0000
+2025-07-12 16:37:20,346 - INFO - 
+Epoch 2/3
+2025-07-12 16:37:20,346 - INFO - ----------------------------------------
+2025-07-12 16:37:20,483 - ERROR - Error in batch 0: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:20,622 - ERROR - Error in batch 1: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:20,758 - ERROR - Error in batch 2: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:20,894 - ERROR - Error in batch 3: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:21,009 - ERROR - Error in validation: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:21,009 - INFO - Train Loss: inf
+2025-07-12 16:37:21,009 - INFO - Val Loss: inf
+2025-07-12 16:37:21,009 - INFO - Train F1: 0.0000
+2025-07-12 16:37:21,010 - INFO - Val F1: 0.0000
+2025-07-12 16:37:21,010 - INFO - 
+Epoch 3/3
+2025-07-12 16:37:21,010 - INFO - ----------------------------------------
+2025-07-12 16:37:21,149 - ERROR - Error in batch 0: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:21,292 - ERROR - Error in batch 1: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:21,431 - ERROR - Error in batch 2: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:21,576 - ERROR - Error in batch 3: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:21,713 - ERROR - Error in validation: not enough values to unpack (expected 3, got 2)
+2025-07-12 16:37:21,713 - INFO - Train Loss: inf
+2025-07-12 16:37:21,713 - INFO - Val Loss: inf
+2025-07-12 16:37:21,713 - INFO - Train F1: 0.0000
+2025-07-12 16:37:21,713 - INFO - Val F1: 0.0000
+2025-07-12 16:37:21,714 - INFO - Training completed!
+2025-07-12 16:37:21,714 - INFO - Best validation loss: inf
+2025-07-12 16:40:17,940 - INFO - Creating datasets...
+2025-07-12 16:40:17,941 - INFO - Found 5 example directories
+2025-07-12 16:40:17,941 - INFO - Building vocabulary from dataset...
+2025-07-12 16:40:17,942 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:40:17,942 - INFO - Loaded 5 samples for all
+2025-07-12 16:40:17,942 - INFO - Vocabulary size: 235
+2025-07-12 16:40:17,942 - INFO - Found 5 example directories
+2025-07-12 16:40:17,943 - INFO - Building vocabulary from dataset...
+2025-07-12 16:40:17,944 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:40:17,944 - INFO - Loaded 5 samples for train
+2025-07-12 16:40:17,944 - INFO - Vocabulary size: 235
+2025-07-12 16:40:17,944 - INFO - Found 5 example directories
+2025-07-12 16:40:17,944 - INFO - Building vocabulary from dataset...
+2025-07-12 16:40:17,945 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:40:17,945 - INFO - Loaded 5 samples for val
+2025-07-12 16:40:17,945 - INFO - Vocabulary size: 235
+2025-07-12 16:40:17,945 - INFO - Found 5 example directories
+2025-07-12 16:40:17,946 - INFO - Building vocabulary from dataset...
+2025-07-12 16:40:17,947 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:40:17,947 - INFO - Loaded 5 samples for test
+2025-07-12 16:40:17,947 - INFO - Vocabulary size: 235
+2025-07-12 16:40:17,947 - INFO - Created splits: train=4, val=1, test=0
+2025-07-12 16:40:17,947 - INFO - Creating models...
+2025-07-12 16:40:18,010 - INFO - Total parameters: 15,825,011
+2025-07-12 16:40:18,010 - INFO - Starting training for 3 epochs
+2025-07-12 16:40:18,010 - INFO - Train samples: 4
+2025-07-12 16:40:18,010 - INFO - Val samples: 1
+2025-07-12 16:40:18,010 - INFO - 
+Epoch 1/3
+2025-07-12 16:40:18,011 - INFO - ----------------------------------------
+2025-07-12 16:40:18,240 - ERROR - Error in batch 0: Target 63 is out of bounds.
+2025-07-12 16:40:18,440 - ERROR - Error in batch 1: Target 63 is out of bounds.
+2025-07-12 16:40:18,624 - ERROR - Error in batch 2: Target 63 is out of bounds.
+2025-07-12 16:40:18,805 - ERROR - Error in batch 3: Target 63 is out of bounds.
+2025-07-12 16:40:18,971 - ERROR - Error in validation: Target 63 is out of bounds.
+2025-07-12 16:40:18,972 - INFO - Train Loss: inf
+2025-07-12 16:40:18,972 - INFO - Val Loss: inf
+2025-07-12 16:40:18,972 - INFO - Train F1: 0.0000
+2025-07-12 16:40:18,972 - INFO - Val F1: 0.0000
+2025-07-12 16:40:18,972 - INFO - 
+Epoch 2/3
+2025-07-12 16:40:18,972 - INFO - ----------------------------------------
+2025-07-12 16:40:19,156 - ERROR - Error in batch 0: Target 63 is out of bounds.
+2025-07-12 16:40:19,343 - ERROR - Error in batch 1: Target 63 is out of bounds.
+2025-07-12 16:40:19,525 - ERROR - Error in batch 2: Target 63 is out of bounds.
+2025-07-12 16:40:19,733 - ERROR - Error in batch 3: Target 63 is out of bounds.
+2025-07-12 16:40:19,894 - ERROR - Error in validation: Target 63 is out of bounds.
+2025-07-12 16:40:19,895 - INFO - Train Loss: inf
+2025-07-12 16:40:19,895 - INFO - Val Loss: inf
+2025-07-12 16:40:19,895 - INFO - Train F1: 0.0000
+2025-07-12 16:40:19,895 - INFO - Val F1: 0.0000
+2025-07-12 16:40:19,895 - INFO - 
+Epoch 3/3
+2025-07-12 16:40:19,895 - INFO - ----------------------------------------
+2025-07-12 16:40:20,078 - ERROR - Error in batch 0: Target 63 is out of bounds.
+2025-07-12 16:40:20,269 - ERROR - Error in batch 1: Target 63 is out of bounds.
+2025-07-12 16:40:20,455 - ERROR - Error in batch 2: Target 63 is out of bounds.
+2025-07-12 16:40:20,639 - ERROR - Error in batch 3: Target 63 is out of bounds.
+2025-07-12 16:40:20,841 - ERROR - Error in validation: Target 63 is out of bounds.
+2025-07-12 16:40:20,842 - INFO - Train Loss: inf
+2025-07-12 16:40:20,842 - INFO - Val Loss: inf
+2025-07-12 16:40:20,842 - INFO - Train F1: 0.0000
+2025-07-12 16:40:20,842 - INFO - Val F1: 0.0000
+2025-07-12 16:40:20,842 - INFO - Training completed!
+2025-07-12 16:40:20,842 - INFO - Best validation loss: inf
+2025-07-12 16:41:34,304 - INFO - Creating datasets...
+2025-07-12 16:41:34,305 - INFO - Found 5 example directories
+2025-07-12 16:41:34,305 - INFO - Building vocabulary from dataset...
+2025-07-12 16:41:34,306 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:41:34,306 - INFO - Loaded 5 samples for all
+2025-07-12 16:41:34,306 - INFO - Vocabulary size: 235
+2025-07-12 16:41:34,306 - INFO - Found 5 example directories
+2025-07-12 16:41:34,307 - INFO - Building vocabulary from dataset...
+2025-07-12 16:41:34,308 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:41:34,308 - INFO - Loaded 5 samples for train
+2025-07-12 16:41:34,308 - INFO - Vocabulary size: 235
+2025-07-12 16:41:34,308 - INFO - Found 5 example directories
+2025-07-12 16:41:34,308 - INFO - Building vocabulary from dataset...
+2025-07-12 16:41:34,309 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:41:34,309 - INFO - Loaded 5 samples for val
+2025-07-12 16:41:34,309 - INFO - Vocabulary size: 235
+2025-07-12 16:41:34,309 - INFO - Found 5 example directories
+2025-07-12 16:41:34,310 - INFO - Building vocabulary from dataset...
+2025-07-12 16:41:34,311 - INFO - Built vocabulary with 235 tokens
+2025-07-12 16:41:34,311 - INFO - Loaded 5 samples for test
+2025-07-12 16:41:34,311 - INFO - Vocabulary size: 235
+2025-07-12 16:41:34,311 - INFO - Created splits: train=4, val=1, test=0
+2025-07-12 16:41:34,311 - INFO - Creating models...
+2025-07-12 16:41:34,418 - INFO - Total parameters: 15,825,011
+2025-07-12 16:41:34,418 - INFO - Starting training for 3 epochs
+2025-07-12 16:41:34,418 - INFO - Train samples: 4
+2025-07-12 16:41:34,419 - INFO - Val samples: 1
+2025-07-12 16:41:34,419 - INFO - Vocabulary size: 235
+2025-07-12 16:41:34,419 - INFO - 
+Epoch 1/3
+2025-07-12 16:41:34,419 - INFO - ----------------------------------------
+2025-07-12 16:41:34,861 - INFO - Batch 0, Loss: 4.1525, F1: 0.5882, LR: 1.00e-03
+2025-07-12 16:41:35,997 - INFO - Train Loss: 3.4443
+2025-07-12 16:41:35,997 - INFO - Val Loss: 2.4264
+2025-07-12 16:41:35,997 - INFO - Train F1: 0.6022
+2025-07-12 16:41:35,997 - INFO - Val F1: 0.7059
+2025-07-12 16:41:36,332 - INFO - ✓ Saved best model
+2025-07-12 16:41:36,332 - INFO - 
+Epoch 2/3
+2025-07-12 16:41:36,332 - INFO - ----------------------------------------
+2025-07-12 16:41:36,671 - INFO - Batch 0, Loss: 2.4849, F1: 0.7368, LR: 1.00e-03
+2025-07-12 16:41:37,796 - INFO - Train Loss: 2.1144
+2025-07-12 16:41:37,796 - INFO - Val Loss: 1.4369
+2025-07-12 16:41:37,796 - INFO - Train F1: 0.6940
+2025-07-12 16:41:37,796 - INFO - Val F1: 0.8571
+2025-07-12 16:41:38,003 - INFO - ✓ Saved best model
+2025-07-12 16:41:38,003 - INFO - 
+Epoch 3/3
+2025-07-12 16:41:38,004 - INFO - ----------------------------------------
+2025-07-12 16:41:38,349 - INFO - Batch 0, Loss: 1.4938, F1: 0.8000, LR: 1.00e-03
+2025-07-12 16:41:39,508 - INFO - Train Loss: 1.2415
+2025-07-12 16:41:39,508 - INFO - Val Loss: 0.8253
+2025-07-12 16:41:39,508 - INFO - Train F1: 0.7937
+2025-07-12 16:41:39,508 - INFO - Val F1: 0.8571
+2025-07-12 16:41:39,709 - INFO - ✓ Saved best model
+2025-07-12 16:41:39,710 - INFO - Training completed!
+2025-07-12 16:41:39,710 - INFO - Best validation loss: 0.8253
+2025-07-14 09:53:09,136 - INFO - Running on macOS with device: cpu
+2025-07-14 09:53:09,136 - INFO - Creating datasets...
+2025-07-14 09:53:09,137 - INFO - Found 158 directories to check
+2025-07-14 09:53:09,150 - INFO - Successfully loaded 158 valid samples
+2025-07-14 09:53:09,151 - INFO - Building vocabulary from dataset...
+2025-07-14 09:53:09,182 - INFO - Built vocabulary with 3469 tokens
+2025-07-14 09:53:09,183 - INFO - Loaded 158 samples for all
+2025-07-14 09:53:09,183 - INFO - Vocabulary size: 3469
+2025-07-14 09:53:09,184 - INFO - Found 158 directories to check
+2025-07-14 09:53:09,195 - INFO - Successfully loaded 158 valid samples
+2025-07-14 09:53:09,195 - INFO - Building vocabulary from dataset...
+2025-07-14 09:53:09,225 - INFO - Built vocabulary with 3469 tokens
+2025-07-14 09:53:09,226 - INFO - Loaded 158 samples for train
+2025-07-14 09:53:09,226 - INFO - Vocabulary size: 3469
+2025-07-14 09:53:09,227 - INFO - Found 158 directories to check
+2025-07-14 09:53:09,238 - INFO - Successfully loaded 158 valid samples
+2025-07-14 09:53:09,238 - INFO - Building vocabulary from dataset...
+2025-07-14 09:53:09,269 - INFO - Built vocabulary with 3469 tokens
+2025-07-14 09:53:09,270 - INFO - Loaded 158 samples for val
+2025-07-14 09:53:09,270 - INFO - Vocabulary size: 3469
+2025-07-14 09:53:09,271 - INFO - Found 158 directories to check
+2025-07-14 09:53:09,281 - INFO - Successfully loaded 158 valid samples
+2025-07-14 09:53:09,281 - INFO - Building vocabulary from dataset...
+2025-07-14 09:53:09,312 - INFO - Built vocabulary with 3469 tokens
+2025-07-14 09:53:09,313 - INFO - Loaded 158 samples for test
+2025-07-14 09:53:09,313 - INFO - Vocabulary size: 3469
+2025-07-14 09:53:09,313 - INFO - Created splits: train=126, val=31, test=1
+2025-07-14 09:53:09,313 - INFO - Trainer initialized for device: cpu
+2025-07-14 09:53:09,313 - INFO - Creating CPU-optimized models...
+2025-07-14 09:53:09,374 - INFO - Total parameters: 10,032,853 (CPU optimized)
+2025-07-14 09:53:09,375 - INFO - Training setup complete. Learning rate: 0.0005
+2025-07-14 09:53:09,375 - INFO - Starting CPU training for 3 epochs
+2025-07-14 09:53:09,375 - INFO - Train samples: 126
+2025-07-14 09:53:09,375 - INFO - Val samples: 31
+2025-07-14 09:53:09,375 - INFO - Vocabulary size: 3469
+2025-07-14 09:53:09,375 - INFO - Device: cpu
+2025-07-14 09:53:09,375 - INFO - 
+Epoch 1/3
+2025-07-14 09:53:09,375 - INFO - ----------------------------------------
+2025-07-14 09:53:09,560 - INFO - Batch 1/126, Loss: 5.3770, F1: 0.5263, LR: 5.00e-04
+2025-07-14 09:53:09,708 - INFO - Batch 2/126, Loss: 5.0908, F1: 0.5556, LR: 5.00e-04
+2025-07-14 09:53:09,849 - INFO - Batch 3/126, Loss: 4.8910, F1: 0.5333, LR: 5.00e-04
+2025-07-14 09:53:09,997 - INFO - Batch 4/126, Loss: 4.4849, F1: 0.7778, LR: 5.00e-04
+2025-07-14 09:53:10,141 - INFO - Batch 5/126, Loss: 4.2788, F1: 0.6667, LR: 4.99e-04
+2025-07-14 09:53:10,281 - INFO - Batch 6/126, Loss: 4.4368, F1: 0.8235, LR: 4.99e-04
+2025-07-14 09:53:10,413 - INFO - Batch 7/126, Loss: 4.3894, F1: 0.8000, LR: 4.99e-04
+2025-07-14 09:53:10,546 - INFO - Batch 8/126, Loss: 4.2540, F1: 0.6667, LR: 4.98e-04
+2025-07-14 09:53:10,680 - INFO - Batch 9/126, Loss: 3.8745, F1: 0.8000, LR: 4.98e-04
+2025-07-14 09:53:10,811 - INFO - Batch 10/126, Loss: 3.9839, F1: 0.6667, LR: 4.97e-04
+2025-07-14 09:53:10,948 - INFO - Batch 11/126, Loss: 3.7414, F1: 0.7500, LR: 4.97e-04
+2025-07-14 09:53:11,107 - INFO - Batch 12/126, Loss: 3.6220, F1: 0.8750, LR: 4.96e-04
+2025-07-14 09:53:11,249 - INFO - Batch 13/126, Loss: 3.9670, F1: 0.7692, LR: 4.95e-04
+2025-07-14 09:53:11,393 - INFO - Batch 14/126, Loss: 4.0179, F1: 0.6154, LR: 4.95e-04
+2025-07-14 09:53:11,579 - INFO - Batch 15/126, Loss: 3.1117, F1: 0.8000, LR: 4.94e-04
+2025-07-14 09:53:11,718 - INFO - Batch 16/126, Loss: 3.7595, F1: 0.6154, LR: 4.93e-04
+2025-07-14 09:53:11,853 - INFO - Batch 17/126, Loss: 3.2578, F1: 0.9333, LR: 4.92e-04
+2025-07-14 09:53:11,984 - INFO - Batch 18/126, Loss: 3.1843, F1: 0.9333, LR: 4.91e-04
+2025-07-14 09:53:12,134 - INFO - Batch 19/126, Loss: 2.9787, F1: 0.8571, LR: 4.90e-04
+2025-07-14 09:53:12,273 - INFO - Batch 20/126, Loss: 2.8319, F1: 0.9231, LR: 4.89e-04
+2025-07-14 09:53:12,406 - INFO - Batch 21/126, Loss: 3.2436, F1: 0.7500, LR: 4.88e-04
+2025-07-14 09:53:12,550 - INFO - Batch 22/126, Loss: 2.7373, F1: 0.8235, LR: 4.87e-04
+2025-07-14 09:53:12,704 - INFO - Batch 23/126, Loss: 2.6894, F1: 1.0000, LR: 4.85e-04
+2025-07-14 09:53:12,840 - INFO - Batch 24/126, Loss: 2.7599, F1: 0.8571, LR: 4.84e-04
+2025-07-14 09:53:12,973 - INFO - Batch 25/126, Loss: 3.2867, F1: 0.8333, LR: 4.83e-04
+2025-07-14 09:53:13,109 - INFO - Batch 26/126, Loss: 3.0208, F1: 0.7692, LR: 4.81e-04
+2025-07-14 09:53:13,261 - INFO - Batch 27/126, Loss: 2.2910, F1: 0.9333, LR: 4.80e-04
+2025-07-14 09:53:13,387 - INFO - Batch 28/126, Loss: 2.4442, F1: 0.7692, LR: 4.79e-04
+2025-07-14 09:53:13,526 - INFO - Batch 29/126, Loss: 2.2790, F1: 0.8750, LR: 4.77e-04
+2025-07-14 09:53:13,664 - INFO - Batch 30/126, Loss: 2.2746, F1: 1.0000, LR: 4.75e-04
+2025-07-14 09:53:13,788 - INFO - Batch 31/126, Loss: 2.6804, F1: 1.0000, LR: 4.74e-04
+2025-07-14 09:53:13,922 - INFO - Batch 32/126, Loss: 2.4486, F1: 0.8000, LR: 4.72e-04
+2025-07-14 09:53:14,062 - INFO - Batch 33/126, Loss: 2.2930, F1: 1.0000, LR: 4.70e-04
+2025-07-14 09:53:14,192 - INFO - Batch 34/126, Loss: 1.9882, F1: 0.9333, LR: 4.69e-04
+2025-07-14 09:53:14,331 - INFO - Batch 35/126, Loss: 1.8603, F1: 0.9333, LR: 4.67e-04
+2025-07-14 09:53:14,483 - INFO - Batch 36/126, Loss: 1.7621, F1: 1.0000, LR: 4.65e-04
+2025-07-14 09:53:14,617 - INFO - Batch 37/126, Loss: 1.9986, F1: 0.8750, LR: 4.63e-04
+2025-07-14 09:53:14,772 - INFO - Batch 38/126, Loss: 1.7038, F1: 0.8571, LR: 4.61e-04
+2025-07-14 09:53:14,903 - INFO - Batch 39/126, Loss: 2.1869, F1: 0.9412, LR: 4.59e-04
+2025-07-14 09:53:15,048 - INFO - Batch 40/126, Loss: 1.6317, F1: 0.8571, LR: 4.57e-04
+2025-07-14 09:53:15,201 - INFO - Batch 41/126, Loss: 1.5680, F1: 1.0000, LR: 4.55e-04
+2025-07-14 09:53:15,338 - INFO - Batch 42/126, Loss: 1.9629, F1: 1.0000, LR: 4.53e-04
+2025-07-14 09:53:15,470 - INFO - Batch 43/126, Loss: 1.9718, F1: 0.9412, LR: 4.51e-04
+2025-07-14 09:53:15,617 - INFO - Batch 44/126, Loss: 1.3438, F1: 1.0000, LR: 4.48e-04
+2025-07-14 09:53:15,764 - INFO - Batch 45/126, Loss: 1.3257, F1: 1.0000, LR: 4.46e-04
+2025-07-14 09:53:15,896 - INFO - Batch 46/126, Loss: 1.7422, F1: 1.0000, LR: 4.44e-04
+2025-07-14 09:53:16,020 - INFO - Batch 47/126, Loss: 2.2803, F1: 0.8571, LR: 4.41e-04
+2025-07-14 09:53:16,230 - INFO - Batch 48/126, Loss: 2.2312, F1: 0.7143, LR: 4.39e-04
+2025-07-14 09:53:16,387 - INFO - Batch 49/126, Loss: 1.3406, F1: 0.8750, LR: 4.37e-04
+2025-07-14 09:53:16,525 - INFO - Batch 50/126, Loss: 1.6823, F1: 0.8750, LR: 4.34e-04
+2025-07-14 09:53:16,657 - INFO - Batch 51/126, Loss: 1.6258, F1: 1.0000, LR: 4.32e-04
+2025-07-14 09:53:16,795 - INFO - Batch 52/126, Loss: 1.3926, F1: 0.8750, LR: 4.29e-04
+2025-07-14 09:53:16,937 - INFO - Batch 53/126, Loss: 1.2998, F1: 0.7143, LR: 4.26e-04
+2025-07-14 09:53:17,067 - INFO - Batch 54/126, Loss: 1.2842, F1: 0.9412, LR: 4.24e-04
+2025-07-14 09:53:17,193 - INFO - Batch 55/126, Loss: 1.1997, F1: 0.8750, LR: 4.21e-04
+2025-07-14 09:53:17,325 - INFO - Batch 56/126, Loss: 2.1971, F1: 0.8571, LR: 4.18e-04
+2025-07-14 09:53:17,481 - INFO - Batch 57/126, Loss: 1.2310, F1: 1.0000, LR: 4.16e-04
+2025-07-14 09:53:17,624 - INFO - Batch 58/126, Loss: 1.1158, F1: 0.8750, LR: 4.13e-04
+2025-07-14 09:53:17,749 - INFO - Batch 59/126, Loss: 1.3569, F1: 0.7692, LR: 4.10e-04
+2025-07-14 09:53:17,885 - INFO - Batch 60/126, Loss: 1.0536, F1: 0.9333, LR: 4.07e-04
+2025-07-14 09:53:18,030 - INFO - Batch 61/126, Loss: 1.9672, F1: 0.8571, LR: 4.04e-04
+2025-07-14 09:53:18,186 - INFO - Batch 62/126, Loss: 0.9991, F1: 1.0000, LR: 4.01e-04
+2025-07-14 09:53:18,306 - INFO - Batch 63/126, Loss: 1.1419, F1: 0.7692, LR: 3.99e-04
+2025-07-14 09:53:18,437 - INFO - Batch 64/126, Loss: 1.2683, F1: 0.8750, LR: 3.96e-04
+2025-07-14 09:53:18,584 - INFO - Batch 65/126, Loss: 0.8193, F1: 1.0000, LR: 3.93e-04
+2025-07-14 09:53:18,791 - INFO - Batch 66/126, Loss: 1.6812, F1: 0.7143, LR: 3.90e-04
+2025-07-14 09:53:18,929 - INFO - Batch 67/126, Loss: 1.0190, F1: 0.7143, LR: 3.86e-04
+2025-07-14 09:53:19,067 - INFO - Batch 68/126, Loss: 0.8331, F1: 0.7143, LR: 3.83e-04
+2025-07-14 09:53:19,191 - INFO - Batch 69/126, Loss: 2.0362, F1: 1.0000, LR: 3.80e-04
+2025-07-14 09:53:19,325 - INFO - Batch 70/126, Loss: 1.5789, F1: 0.8571, LR: 3.77e-04
+2025-07-14 09:53:19,528 - INFO - Batch 71/126, Loss: 1.4995, F1: 0.7692, LR: 3.74e-04
+2025-07-14 09:53:19,663 - INFO - Batch 72/126, Loss: 1.5206, F1: 0.9333, LR: 3.71e-04
+2025-07-14 09:53:19,798 - INFO - Batch 73/126, Loss: 1.2409, F1: 0.9333, LR: 3.68e-04
+2025-07-14 09:53:19,928 - INFO - Batch 74/126, Loss: 0.9846, F1: 1.0000, LR: 3.64e-04
+2025-07-14 09:53:20,063 - INFO - Batch 75/126, Loss: 0.9697, F1: 0.8750, LR: 3.61e-04
+2025-07-14 09:53:20,190 - INFO - Batch 76/126, Loss: 1.6803, F1: 0.8571, LR: 3.58e-04
+2025-07-14 09:53:20,339 - INFO - Batch 77/126, Loss: 0.6956, F1: 0.8571, LR: 3.55e-04
+2025-07-14 09:53:20,481 - INFO - Batch 78/126, Loss: 0.6840, F1: 0.8571, LR: 3.51e-04
+2025-07-14 09:53:20,610 - INFO - Batch 79/126, Loss: 0.7568, F1: 0.9333, LR: 3.48e-04
+2025-07-14 09:53:20,738 - INFO - Batch 80/126, Loss: 1.4863, F1: 1.0000, LR: 3.45e-04
+2025-07-14 09:53:20,872 - INFO - Batch 81/126, Loss: 1.4866, F1: 0.9412, LR: 3.41e-04
+2025-07-14 09:53:21,019 - INFO - Batch 82/126, Loss: 0.6052, F1: 0.8571, LR: 3.38e-04
+2025-07-14 09:53:21,161 - INFO - Batch 83/126, Loss: 0.8858, F1: 0.8235, LR: 3.34e-04
+2025-07-14 09:53:21,308 - INFO - Batch 84/126, Loss: 0.6839, F1: 0.8000, LR: 3.31e-04
+2025-07-14 09:53:21,467 - INFO - Batch 85/126, Loss: 0.8999, F1: 0.9333, LR: 3.28e-04
+2025-07-14 09:53:21,612 - INFO - Batch 86/126, Loss: 0.7917, F1: 0.7143, LR: 3.24e-04
+2025-07-14 09:53:21,773 - INFO - Batch 87/126, Loss: 0.8501, F1: 1.0000, LR: 3.21e-04
+2025-07-14 09:53:21,902 - INFO - Batch 88/126, Loss: 1.3116, F1: 1.0000, LR: 3.17e-04
+2025-07-14 09:53:22,054 - INFO - Batch 89/126, Loss: 0.8310, F1: 0.9333, LR: 3.14e-04
+2025-07-14 09:53:22,176 - INFO - Batch 90/126, Loss: 1.2301, F1: 0.8000, LR: 3.10e-04
+2025-07-14 09:53:22,306 - INFO - Batch 91/126, Loss: 0.5168, F1: 0.7692, LR: 3.07e-04
+2025-07-14 09:53:22,433 - INFO - Batch 92/126, Loss: 1.3536, F1: 0.9333, LR: 3.03e-04
+2025-07-14 09:53:22,558 - INFO - Batch 93/126, Loss: 1.5966, F1: 0.8750, LR: 3.00e-04
+2025-07-14 09:53:22,697 - INFO - Batch 94/126, Loss: 0.6212, F1: 0.7143, LR: 2.96e-04
+2025-07-14 09:53:22,830 - INFO - Batch 95/126, Loss: 1.0339, F1: 0.9333, LR: 2.93e-04
+2025-07-14 09:53:22,960 - INFO - Batch 96/126, Loss: 0.7615, F1: 0.8750, LR: 2.89e-04
+2025-07-14 09:53:23,086 - INFO - Batch 97/126, Loss: 1.0132, F1: 0.9333, LR: 2.86e-04
+2025-07-14 09:53:23,227 - INFO - Batch 98/126, Loss: 0.7693, F1: 1.0000, LR: 2.82e-04
+2025-07-14 09:53:23,360 - INFO - Batch 99/126, Loss: 1.0003, F1: 1.0000, LR: 2.79e-04
+2025-07-14 09:53:23,489 - INFO - Batch 100/126, Loss: 0.9940, F1: 0.8750, LR: 2.75e-04
+2025-07-14 09:53:23,618 - INFO - Batch 101/126, Loss: 0.7268, F1: 0.9333, LR: 2.71e-04
+2025-07-14 09:53:23,749 - INFO - Batch 102/126, Loss: 0.7941, F1: 0.8235, LR: 2.68e-04
+2025-07-14 09:53:23,885 - INFO - Batch 103/126, Loss: 0.4966, F1: 0.7692, LR: 2.64e-04
+2025-07-14 09:53:24,030 - INFO - Batch 104/126, Loss: 0.6717, F1: 0.9333, LR: 2.61e-04
+2025-07-14 09:53:24,187 - INFO - Batch 105/126, Loss: 0.6656, F1: 0.9333, LR: 2.57e-04
+2025-07-14 09:53:24,316 - INFO - Batch 106/126, Loss: 1.1258, F1: 0.9412, LR: 2.54e-04
+2025-07-14 09:53:24,458 - INFO - Batch 107/126, Loss: 0.6226, F1: 1.0000, LR: 2.50e-04
+2025-07-14 09:53:24,588 - INFO - Batch 108/126, Loss: 0.6301, F1: 1.0000, LR: 2.47e-04
+2025-07-14 09:53:24,729 - INFO - Batch 109/126, Loss: 0.6615, F1: 1.0000, LR: 2.43e-04
+2025-07-14 09:53:24,875 - INFO - Batch 110/126, Loss: 0.6114, F1: 0.9412, LR: 2.40e-04
+2025-07-14 09:53:25,030 - INFO - Batch 111/126, Loss: 0.5989, F1: 0.9333, LR: 2.36e-04
+2025-07-14 09:53:25,173 - INFO - Batch 112/126, Loss: 0.5119, F1: 1.0000, LR: 2.33e-04
+2025-07-14 09:53:25,316 - INFO - Batch 113/126, Loss: 0.4055, F1: 1.0000, LR: 2.29e-04
+2025-07-14 09:53:25,444 - INFO - Batch 114/126, Loss: 0.9960, F1: 0.9412, LR: 2.26e-04
+2025-07-14 09:53:25,585 - INFO - Batch 115/126, Loss: 0.5979, F1: 1.0000, LR: 2.22e-04
+2025-07-14 09:53:25,715 - INFO - Batch 116/126, Loss: 1.1608, F1: 0.8750, LR: 2.19e-04
+2025-07-14 09:53:25,839 - INFO - Batch 117/126, Loss: 0.8397, F1: 0.8750, LR: 2.16e-04
+2025-07-14 09:53:25,973 - INFO - Batch 118/126, Loss: 0.5425, F1: 1.0000, LR: 2.12e-04
+2025-07-14 09:53:26,111 - INFO - Batch 119/126, Loss: 0.6467, F1: 0.8571, LR: 2.09e-04
+2025-07-14 09:53:26,258 - INFO - Batch 120/126, Loss: 0.5405, F1: 1.0000, LR: 2.05e-04
+2025-07-14 09:53:26,397 - INFO - Batch 121/126, Loss: 1.5152, F1: 0.7143, LR: 2.02e-04
+2025-07-14 09:53:26,531 - INFO - Batch 122/126, Loss: 1.1761, F1: 0.8750, LR: 1.99e-04
+2025-07-14 09:53:26,666 - INFO - Batch 123/126, Loss: 0.6525, F1: 0.9412, LR: 1.95e-04
+2025-07-14 09:53:26,795 - INFO - Batch 124/126, Loss: 1.1161, F1: 0.9333, LR: 1.92e-04
+2025-07-14 09:53:26,935 - INFO - Batch 125/126, Loss: 0.4671, F1: 0.7692, LR: 1.89e-04
+2025-07-14 09:53:27,068 - INFO - Batch 126/126, Loss: 1.0850, F1: 0.8750, LR: 1.86e-04
+2025-07-14 09:53:28,980 - INFO - Epoch 1 completed in 19.61s
+2025-07-14 09:53:28,980 - INFO - Train Loss: 1.7641
+2025-07-14 09:53:28,980 - INFO - Val Loss: 0.6399
+2025-07-14 09:53:28,981 - INFO - Train F1: 0.8722
+2025-07-14 09:53:28,981 - INFO - Val F1: 0.8918
+2025-07-14 09:53:29,210 - INFO - ✓ Saved best model
+2025-07-14 09:53:29,210 - INFO - 
+Epoch 2/3
+2025-07-14 09:53:29,210 - INFO - ----------------------------------------
+2025-07-14 09:53:29,348 - INFO - Batch 1/126, Loss: 1.0201, F1: 1.0000, LR: 1.82e-04
+2025-07-14 09:53:29,477 - INFO - Batch 2/126, Loss: 0.6857, F1: 1.0000, LR: 1.79e-04
+2025-07-14 09:53:29,628 - INFO - Batch 3/126, Loss: 0.5459, F1: 0.7143, LR: 1.76e-04
+2025-07-14 09:53:29,762 - INFO - Batch 4/126, Loss: 0.5673, F1: 0.9412, LR: 1.73e-04
+2025-07-14 09:53:29,897 - INFO - Batch 5/126, Loss: 0.5769, F1: 0.8750, LR: 1.70e-04
+2025-07-14 09:53:30,053 - INFO - Batch 6/126, Loss: 0.4717, F1: 1.0000, LR: 1.67e-04
+2025-07-14 09:53:30,197 - INFO - Batch 7/126, Loss: 0.4293, F1: 0.9333, LR: 1.64e-04
+2025-07-14 09:53:30,330 - INFO - Batch 8/126, Loss: 0.5298, F1: 0.9333, LR: 1.60e-04
+2025-07-14 09:53:30,468 - INFO - Batch 9/126, Loss: 0.4103, F1: 0.9412, LR: 1.57e-04
+2025-07-14 09:53:30,604 - INFO - Batch 10/126, Loss: 0.8349, F1: 1.0000, LR: 1.54e-04
+2025-07-14 09:53:30,750 - INFO - Batch 11/126, Loss: 0.5002, F1: 0.9412, LR: 1.51e-04
+2025-07-14 09:53:30,909 - INFO - Batch 12/126, Loss: 0.4617, F1: 1.0000, LR: 1.49e-04
+2025-07-14 09:53:31,044 - INFO - Batch 13/126, Loss: 0.7873, F1: 0.9412, LR: 1.46e-04
+2025-07-14 09:53:31,169 - INFO - Batch 14/126, Loss: 0.6694, F1: 0.9412, LR: 1.43e-04
+2025-07-14 09:53:31,304 - INFO - Batch 15/126, Loss: 1.2720, F1: 0.8571, LR: 1.40e-04
+2025-07-14 09:53:31,446 - INFO - Batch 16/126, Loss: 0.4970, F1: 0.8571, LR: 1.37e-04
+2025-07-14 09:53:31,589 - INFO - Batch 17/126, Loss: 0.4912, F1: 0.8571, LR: 1.34e-04
+2025-07-14 09:53:31,732 - INFO - Batch 18/126, Loss: 0.5004, F1: 0.8571, LR: 1.32e-04
+2025-07-14 09:53:31,863 - INFO - Batch 19/126, Loss: 0.9822, F1: 0.9333, LR: 1.29e-04
+2025-07-14 09:53:32,038 - INFO - Batch 20/126, Loss: 0.4747, F1: 0.9333, LR: 1.26e-04
+2025-07-14 09:53:32,174 - INFO - Batch 21/126, Loss: 1.2629, F1: 0.7143, LR: 1.24e-04
+2025-07-14 09:53:32,304 - INFO - Batch 22/126, Loss: 0.5178, F1: 1.0000, LR: 1.21e-04
+2025-07-14 09:53:32,438 - INFO - Batch 23/126, Loss: 0.5271, F1: 0.8889, LR: 1.18e-04
+2025-07-14 09:53:32,588 - INFO - Batch 24/126, Loss: 0.3620, F1: 0.9333, LR: 1.16e-04
+2025-07-14 09:53:32,748 - INFO - Batch 25/126, Loss: 0.4750, F1: 1.0000, LR: 1.13e-04
+2025-07-14 09:53:32,889 - INFO - Batch 26/126, Loss: 1.1964, F1: 0.7143, LR: 1.11e-04
+2025-07-14 09:53:33,029 - INFO - Batch 27/126, Loss: 0.7841, F1: 0.8750, LR: 1.09e-04
+2025-07-14 09:53:33,180 - INFO - Batch 28/126, Loss: 0.4095, F1: 1.0000, LR: 1.06e-04
+2025-07-14 09:53:33,311 - INFO - Batch 29/126, Loss: 0.4877, F1: 0.9412, LR: 1.04e-04
+2025-07-14 09:53:33,464 - INFO - Batch 30/126, Loss: 0.4492, F1: 1.0000, LR: 1.02e-04
+2025-07-14 09:53:33,612 - INFO - Batch 31/126, Loss: 0.3398, F1: 1.0000, LR: 9.94e-05
+2025-07-14 09:53:33,745 - INFO - Batch 32/126, Loss: 0.7246, F1: 1.0000, LR: 9.72e-05
+2025-07-14 09:53:33,887 - INFO - Batch 33/126, Loss: 0.6509, F1: 1.0000, LR: 9.51e-05
+2025-07-14 09:53:34,035 - INFO - Batch 34/126, Loss: 0.3843, F1: 1.0000, LR: 9.30e-05
+2025-07-14 09:53:34,183 - INFO - Batch 35/126, Loss: 0.3274, F1: 1.0000, LR: 9.09e-05
+2025-07-14 09:53:34,319 - INFO - Batch 36/126, Loss: 0.5653, F1: 0.8750, LR: 8.89e-05
+2025-07-14 09:53:34,470 - INFO - Batch 37/126, Loss: 0.3308, F1: 1.0000, LR: 8.69e-05
+2025-07-14 09:53:34,615 - INFO - Batch 38/126, Loss: 0.3577, F1: 0.8571, LR: 8.50e-05
+2025-07-14 09:53:34,762 - INFO - Batch 39/126, Loss: 0.4707, F1: 0.7143, LR: 8.32e-05
+2025-07-14 09:53:34,896 - INFO - Batch 40/126, Loss: 0.7047, F1: 1.0000, LR: 8.13e-05
+2025-07-14 09:53:35,032 - INFO - Batch 41/126, Loss: 0.7103, F1: 1.0000, LR: 7.96e-05
+2025-07-14 09:53:35,183 - INFO - Batch 42/126, Loss: 0.4216, F1: 0.9333, LR: 7.78e-05
+2025-07-14 09:53:35,320 - INFO - Batch 43/126, Loss: 0.3579, F1: 0.8571, LR: 7.62e-05
+2025-07-14 09:53:35,456 - INFO - Batch 44/126, Loss: 0.7074, F1: 1.0000, LR: 7.45e-05
+2025-07-14 09:53:35,590 - INFO - Batch 45/126, Loss: 0.9123, F1: 0.8750, LR: 7.29e-05
+2025-07-14 09:53:35,726 - INFO - Batch 46/126, Loss: 0.4269, F1: 0.8750, LR: 7.14e-05
+2025-07-14 09:53:35,866 - INFO - Batch 47/126, Loss: 0.3440, F1: 0.8571, LR: 6.99e-05
+2025-07-14 09:53:36,004 - INFO - Batch 48/126, Loss: 0.7276, F1: 0.8750, LR: 6.85e-05
+2025-07-14 09:53:36,154 - INFO - Batch 49/126, Loss: 0.3021, F1: 1.0000, LR: 6.71e-05
+2025-07-14 09:53:36,285 - INFO - Batch 50/126, Loss: 0.8175, F1: 1.0000, LR: 6.58e-05
+2025-07-14 09:53:36,442 - INFO - Batch 51/126, Loss: 0.3569, F1: 1.0000, LR: 6.45e-05
+2025-07-14 09:53:36,582 - INFO - Batch 52/126, Loss: 0.4047, F1: 0.7143, LR: 6.33e-05
+2025-07-14 09:53:36,708 - INFO - Batch 53/126, Loss: 0.5984, F1: 0.9412, LR: 6.21e-05
+2025-07-14 09:53:36,844 - INFO - Batch 54/126, Loss: 0.9159, F1: 0.8750, LR: 6.10e-05
+2025-07-14 09:53:36,984 - INFO - Batch 55/126, Loss: 0.8518, F1: 0.8750, LR: 5.99e-05
+2025-07-14 09:53:37,126 - INFO - Batch 56/126, Loss: 0.4718, F1: 0.9412, LR: 5.89e-05
+2025-07-14 09:53:37,263 - INFO - Batch 57/126, Loss: 0.7415, F1: 0.9412, LR: 5.80e-05
+2025-07-14 09:53:37,403 - INFO - Batch 58/126, Loss: 0.5272, F1: 0.9412, LR: 5.71e-05
+2025-07-14 09:53:37,548 - INFO - Batch 59/126, Loss: 0.3643, F1: 1.0000, LR: 5.62e-05
+2025-07-14 09:53:37,690 - INFO - Batch 60/126, Loss: 0.8686, F1: 0.9412, LR: 5.54e-05
+2025-07-14 09:53:37,826 - INFO - Batch 61/126, Loss: 0.3695, F1: 0.8750, LR: 5.47e-05
+2025-07-14 09:53:37,946 - INFO - Batch 62/126, Loss: 0.5743, F1: 0.7692, LR: 5.40e-05
+2025-07-14 09:53:38,099 - INFO - Batch 63/126, Loss: 0.3819, F1: 1.0000, LR: 5.34e-05
+2025-07-14 09:53:38,235 - INFO - Batch 64/126, Loss: 0.4272, F1: 0.9412, LR: 5.28e-05
+2025-07-14 09:53:38,358 - INFO - Batch 65/126, Loss: 0.9039, F1: 0.8571, LR: 5.22e-05
+2025-07-14 09:53:38,479 - INFO - Batch 66/126, Loss: 0.9238, F1: 0.8750, LR: 5.18e-05
+2025-07-14 09:53:38,608 - INFO - Batch 67/126, Loss: 0.5175, F1: 0.9333, LR: 5.14e-05
+2025-07-14 09:53:38,736 - INFO - Batch 68/126, Loss: 0.4142, F1: 0.8750, LR: 5.10e-05
+2025-07-14 09:53:38,877 - INFO - Batch 69/126, Loss: 0.3222, F1: 0.8571, LR: 5.07e-05
+2025-07-14 09:53:39,009 - INFO - Batch 70/126, Loss: 0.5850, F1: 0.8571, LR: 5.04e-05
+2025-07-14 09:53:39,156 - INFO - Batch 71/126, Loss: 0.3695, F1: 1.0000, LR: 5.02e-05
+2025-07-14 09:53:39,300 - INFO - Batch 72/126, Loss: 1.0652, F1: 0.7143, LR: 5.01e-05
+2025-07-14 09:53:39,445 - INFO - Batch 73/126, Loss: 0.7917, F1: 1.0000, LR: 5.00e-05
+2025-07-14 09:53:39,572 - INFO - Batch 74/126, Loss: 0.5201, F1: 0.7692, LR: 5.00e-05
+2025-07-14 09:53:39,725 - INFO - Batch 75/126, Loss: 0.4561, F1: 0.8750, LR: 5.00e-05
+2025-07-14 09:53:39,853 - INFO - Batch 76/126, Loss: 0.8744, F1: 0.8750, LR: 5.01e-05
+2025-07-14 09:53:39,992 - INFO - Batch 77/126, Loss: 0.3709, F1: 0.8750, LR: 5.02e-05
+2025-07-14 09:53:40,132 - INFO - Batch 78/126, Loss: 1.0803, F1: 0.8571, LR: 5.04e-05
+2025-07-14 09:53:40,269 - INFO - Batch 79/126, Loss: 0.6654, F1: 0.9333, LR: 5.07e-05
+2025-07-14 09:53:40,423 - INFO - Batch 80/126, Loss: 0.4351, F1: 0.8571, LR: 5.10e-05
+2025-07-14 09:53:40,644 - INFO - Batch 81/126, Loss: 1.0452, F1: 0.7692, LR: 5.14e-05
+2025-07-14 09:53:40,803 - INFO - Batch 82/126, Loss: 0.3123, F1: 0.9333, LR: 5.18e-05
+2025-07-14 09:53:40,944 - INFO - Batch 83/126, Loss: 0.7910, F1: 0.9333, LR: 5.22e-05
+2025-07-14 09:53:41,079 - INFO - Batch 84/126, Loss: 0.8687, F1: 0.9333, LR: 5.28e-05
+2025-07-14 09:53:41,229 - INFO - Batch 85/126, Loss: 0.4251, F1: 1.0000, LR: 5.34e-05
+2025-07-14 09:53:41,370 - INFO - Batch 86/126, Loss: 0.4738, F1: 0.8750, LR: 5.40e-05
+2025-07-14 09:53:41,509 - INFO - Batch 87/126, Loss: 0.6659, F1: 0.8750, LR: 5.47e-05
+2025-07-14 09:53:41,650 - INFO - Batch 88/126, Loss: 0.3587, F1: 0.7143, LR: 5.54e-05
+2025-07-14 09:53:41,790 - INFO - Batch 89/126, Loss: 0.3072, F1: 0.8571, LR: 5.62e-05
+2025-07-14 09:53:41,934 - INFO - Batch 90/126, Loss: 0.3453, F1: 0.9333, LR: 5.71e-05
+2025-07-14 09:53:42,078 - INFO - Batch 91/126, Loss: 0.2767, F1: 1.0000, LR: 5.80e-05
+2025-07-14 09:53:42,233 - INFO - Batch 92/126, Loss: 0.4129, F1: 1.0000, LR: 5.89e-05
+2025-07-14 09:53:42,383 - INFO - Batch 93/126, Loss: 0.3617, F1: 1.0000, LR: 5.99e-05
+2025-07-14 09:53:42,537 - INFO - Batch 94/126, Loss: 0.4010, F1: 1.0000, LR: 6.10e-05
+2025-07-14 09:53:42,682 - INFO - Batch 95/126, Loss: 0.2746, F1: 0.9333, LR: 6.21e-05
+2025-07-14 09:53:42,810 - INFO - Batch 96/126, Loss: 0.5548, F1: 1.0000, LR: 6.33e-05
+2025-07-14 09:53:42,935 - INFO - Batch 97/126, Loss: 0.6998, F1: 0.9412, LR: 6.45e-05
+2025-07-14 09:53:43,080 - INFO - Batch 98/126, Loss: 0.4136, F1: 0.7692, LR: 6.58e-05
+2025-07-14 09:53:43,212 - INFO - Batch 99/126, Loss: 0.7819, F1: 0.9333, LR: 6.71e-05
+2025-07-14 09:53:43,344 - INFO - Batch 100/126, Loss: 1.0697, F1: 0.8571, LR: 6.85e-05
+2025-07-14 09:53:43,472 - INFO - Batch 101/126, Loss: 0.7480, F1: 1.0000, LR: 6.99e-05
+2025-07-14 09:53:43,608 - INFO - Batch 102/126, Loss: 0.4444, F1: 0.8750, LR: 7.14e-05
+2025-07-14 09:53:43,736 - INFO - Batch 103/126, Loss: 0.4093, F1: 0.9333, LR: 7.29e-05
+2025-07-14 09:53:43,875 - INFO - Batch 104/126, Loss: 0.3385, F1: 1.0000, LR: 7.45e-05
+2025-07-14 09:53:44,083 - INFO - Batch 105/126, Loss: 1.0131, F1: 0.7143, LR: 7.62e-05
+2025-07-14 09:53:44,216 - INFO - Batch 106/126, Loss: 0.6758, F1: 0.9412, LR: 7.78e-05
+2025-07-14 09:53:44,374 - INFO - Batch 107/126, Loss: 0.3680, F1: 1.0000, LR: 7.96e-05
+2025-07-14 09:53:44,512 - INFO - Batch 108/126, Loss: 0.3317, F1: 0.9333, LR: 8.13e-05
+2025-07-14 09:53:44,664 - INFO - Batch 109/126, Loss: 0.3631, F1: 0.8750, LR: 8.32e-05
+2025-07-14 09:53:44,816 - INFO - Batch 110/126, Loss: 0.2745, F1: 1.0000, LR: 8.50e-05
+2025-07-14 09:53:44,951 - INFO - Batch 111/126, Loss: 0.4318, F1: 0.8750, LR: 8.69e-05
+2025-07-14 09:53:45,095 - INFO - Batch 112/126, Loss: 0.4107, F1: 0.8571, LR: 8.89e-05
+2025-07-14 09:53:45,301 - INFO - Batch 113/126, Loss: 0.2758, F1: 0.9412, LR: 9.09e-05
+2025-07-14 09:53:45,459 - INFO - Batch 114/126, Loss: 0.4042, F1: 0.9412, LR: 9.30e-05
+2025-07-14 09:53:45,599 - INFO - Batch 115/126, Loss: 0.5176, F1: 0.9412, LR: 9.51e-05
+2025-07-14 09:53:45,740 - INFO - Batch 116/126, Loss: 0.6883, F1: 1.0000, LR: 9.72e-05
+2025-07-14 09:53:45,890 - INFO - Batch 117/126, Loss: 1.0390, F1: 0.8571, LR: 9.94e-05
+2025-07-14 09:53:46,029 - INFO - Batch 118/126, Loss: 0.4695, F1: 1.0000, LR: 1.02e-04
+2025-07-14 09:53:46,166 - INFO - Batch 119/126, Loss: 0.4075, F1: 0.9412, LR: 1.04e-04
+2025-07-14 09:53:46,312 - INFO - Batch 120/126, Loss: 0.7795, F1: 0.8750, LR: 1.06e-04
+2025-07-14 09:53:46,450 - INFO - Batch 121/126, Loss: 0.6730, F1: 1.0000, LR: 1.09e-04
+2025-07-14 09:53:46,589 - INFO - Batch 122/126, Loss: 0.3803, F1: 0.9412, LR: 1.11e-04
+2025-07-14 09:53:46,720 - INFO - Batch 123/126, Loss: 0.4137, F1: 1.0000, LR: 1.13e-04
+2025-07-14 09:53:46,861 - INFO - Batch 124/126, Loss: 0.4143, F1: 0.7692, LR: 1.16e-04
+2025-07-14 09:53:47,067 - INFO - Batch 125/126, Loss: 0.9416, F1: 0.7143, LR: 1.18e-04
+2025-07-14 09:53:47,195 - INFO - Batch 126/126, Loss: 0.8125, F1: 1.0000, LR: 1.21e-04
+2025-07-14 09:53:49,119 - INFO - Epoch 2 completed in 19.91s
+2025-07-14 09:53:49,119 - INFO - Train Loss: 0.5776
+2025-07-14 09:53:49,119 - INFO - Val Loss: 0.4793
+2025-07-14 09:53:49,119 - INFO - Train F1: 0.9142
+2025-07-14 09:53:49,119 - INFO - Val F1: 0.8918
+2025-07-14 09:53:49,248 - INFO - ✓ Saved best model
+2025-07-14 09:53:49,248 - INFO - 
+Epoch 3/3
+2025-07-14 09:53:49,248 - INFO - ----------------------------------------
+2025-07-14 09:53:49,408 - INFO - Batch 1/126, Loss: 0.3567, F1: 0.9333, LR: 1.24e-04
+2025-07-14 09:53:49,540 - INFO - Batch 2/126, Loss: 0.3900, F1: 1.0000, LR: 1.26e-04
+2025-07-14 09:53:49,683 - INFO - Batch 3/126, Loss: 0.3714, F1: 0.8571, LR: 1.29e-04
+2025-07-14 09:53:49,812 - INFO - Batch 4/126, Loss: 0.5143, F1: 0.9333, LR: 1.32e-04
+2025-07-14 09:53:49,959 - INFO - Batch 5/126, Loss: 0.2490, F1: 1.0000, LR: 1.34e-04
+2025-07-14 09:53:50,114 - INFO - Batch 6/126, Loss: 0.3579, F1: 1.0000, LR: 1.37e-04
+2025-07-14 09:53:50,261 - INFO - Batch 7/126, Loss: 0.3254, F1: 1.0000, LR: 1.40e-04
+2025-07-14 09:53:50,416 - INFO - Batch 8/126, Loss: 0.3206, F1: 1.0000, LR: 1.43e-04
+2025-07-14 09:53:50,551 - INFO - Batch 9/126, Loss: 0.6302, F1: 0.9412, LR: 1.46e-04
+2025-07-14 09:53:50,698 - INFO - Batch 10/126, Loss: 0.2946, F1: 0.8571, LR: 1.49e-04
+2025-07-14 09:53:50,843 - INFO - Batch 11/126, Loss: 0.3656, F1: 0.8571, LR: 1.51e-04
+2025-07-14 09:53:50,983 - INFO - Batch 12/126, Loss: 0.3140, F1: 0.8750, LR: 1.54e-04
+2025-07-14 09:53:51,119 - INFO - Batch 13/126, Loss: 0.6100, F1: 0.9412, LR: 1.57e-04
+2025-07-14 09:53:51,265 - INFO - Batch 14/126, Loss: 0.3892, F1: 0.9474, LR: 1.60e-04
+2025-07-14 09:53:51,389 - INFO - Batch 15/126, Loss: 0.4782, F1: 0.8333, LR: 1.64e-04
+2025-07-14 09:53:51,535 - INFO - Batch 16/126, Loss: 0.3562, F1: 0.8571, LR: 1.67e-04
+2025-07-14 09:53:51,696 - INFO - Batch 17/126, Loss: 0.3249, F1: 1.0000, LR: 1.70e-04
+2025-07-14 09:53:51,833 - INFO - Batch 18/126, Loss: 0.3894, F1: 0.9412, LR: 1.73e-04
+2025-07-14 09:53:51,973 - INFO - Batch 19/126, Loss: 0.5916, F1: 1.0000, LR: 1.76e-04
+2025-07-14 09:53:52,115 - INFO - Batch 20/126, Loss: 0.3507, F1: 0.7143, LR: 1.79e-04
+2025-07-14 09:53:52,242 - INFO - Batch 21/126, Loss: 0.3986, F1: 0.8750, LR: 1.82e-04
+2025-07-14 09:53:52,371 - INFO - Batch 22/126, Loss: 0.5541, F1: 0.8235, LR: 1.86e-04
+2025-07-14 09:53:52,505 - INFO - Batch 23/126, Loss: 0.7628, F1: 0.9333, LR: 1.89e-04
+2025-07-14 09:53:52,648 - INFO - Batch 24/126, Loss: 0.3228, F1: 0.8750, LR: 1.92e-04
+2025-07-14 09:53:52,788 - INFO - Batch 25/126, Loss: 0.3479, F1: 0.8000, LR: 1.95e-04
+2025-07-14 09:53:52,931 - INFO - Batch 26/126, Loss: 0.6339, F1: 1.0000, LR: 1.99e-04
+2025-07-14 09:53:53,064 - INFO - Batch 27/126, Loss: 0.4895, F1: 1.0000, LR: 2.02e-04
+2025-07-14 09:53:53,216 - INFO - Batch 28/126, Loss: 0.2971, F1: 1.0000, LR: 2.05e-04
+2025-07-14 09:53:53,350 - INFO - Batch 29/126, Loss: 0.3711, F1: 0.9412, LR: 2.09e-04
+2025-07-14 09:53:53,492 - INFO - Batch 30/126, Loss: 0.3326, F1: 1.0000, LR: 2.12e-04
+2025-07-14 09:53:53,630 - INFO - Batch 31/126, Loss: 0.2820, F1: 1.0000, LR: 2.16e-04
+2025-07-14 09:53:53,771 - INFO - Batch 32/126, Loss: 0.2850, F1: 0.7692, LR: 2.19e-04
+2025-07-14 09:53:53,916 - INFO - Batch 33/126, Loss: 0.3427, F1: 0.7143, LR: 2.22e-04
+2025-07-14 09:53:54,056 - INFO - Batch 34/126, Loss: 0.2918, F1: 0.9412, LR: 2.26e-04
+2025-07-14 09:53:54,206 - INFO - Batch 35/126, Loss: 0.2364, F1: 1.0000, LR: 2.29e-04
+2025-07-14 09:53:54,342 - INFO - Batch 36/126, Loss: 0.3308, F1: 0.8889, LR: 2.33e-04
+2025-07-14 09:53:54,476 - INFO - Batch 37/126, Loss: 0.3398, F1: 0.9412, LR: 2.36e-04
+2025-07-14 09:53:54,606 - INFO - Batch 38/126, Loss: 0.6148, F1: 1.0000, LR: 2.40e-04
+2025-07-14 09:53:54,743 - INFO - Batch 39/126, Loss: 0.6456, F1: 0.8750, LR: 2.43e-04
+2025-07-14 09:53:54,885 - INFO - Batch 40/126, Loss: 0.2389, F1: 1.0000, LR: 2.47e-04
+2025-07-14 09:53:55,018 - INFO - Batch 41/126, Loss: 0.3950, F1: 0.8750, LR: 2.50e-04
+2025-07-14 09:53:55,152 - INFO - Batch 42/126, Loss: 0.5346, F1: 0.9333, LR: 2.54e-04
+2025-07-14 09:53:55,284 - INFO - Batch 43/126, Loss: 0.5424, F1: 0.9333, LR: 2.57e-04
+2025-07-14 09:53:55,416 - INFO - Batch 44/126, Loss: 0.3379, F1: 1.0000, LR: 2.61e-04
+2025-07-14 09:53:55,536 - INFO - Batch 45/126, Loss: 0.4278, F1: 0.7692, LR: 2.64e-04
+2025-07-14 09:53:55,664 - INFO - Batch 46/126, Loss: 0.4366, F1: 0.8750, LR: 2.68e-04
+2025-07-14 09:53:55,817 - INFO - Batch 47/126, Loss: 0.2785, F1: 1.0000, LR: 2.71e-04
+2025-07-14 09:53:55,952 - INFO - Batch 48/126, Loss: 0.7006, F1: 0.8750, LR: 2.75e-04
+2025-07-14 09:53:56,107 - INFO - Batch 49/126, Loss: 0.3018, F1: 0.9412, LR: 2.79e-04
+2025-07-14 09:53:56,234 - INFO - Batch 50/126, Loss: 0.3373, F1: 0.8750, LR: 2.82e-04
+2025-07-14 09:53:56,374 - INFO - Batch 51/126, Loss: 0.2703, F1: 0.8750, LR: 2.86e-04
+2025-07-14 09:53:56,521 - INFO - Batch 52/126, Loss: 0.2581, F1: 1.0000, LR: 2.89e-04
+2025-07-14 09:53:56,667 - INFO - Batch 53/126, Loss: 0.2178, F1: 0.9412, LR: 2.93e-04
+2025-07-14 09:53:56,812 - INFO - Batch 54/126, Loss: 0.2910, F1: 1.0000, LR: 2.96e-04
+2025-07-14 09:53:56,954 - INFO - Batch 55/126, Loss: 0.2600, F1: 0.7692, LR: 3.00e-04
+2025-07-14 09:53:57,093 - INFO - Batch 56/126, Loss: 0.4689, F1: 1.0000, LR: 3.03e-04
+2025-07-14 09:53:57,228 - INFO - Batch 57/126, Loss: 0.5439, F1: 1.0000, LR: 3.07e-04
+2025-07-14 09:53:57,363 - INFO - Batch 58/126, Loss: 0.5257, F1: 0.8750, LR: 3.10e-04
+2025-07-14 09:53:57,502 - INFO - Batch 59/126, Loss: 0.2353, F1: 1.0000, LR: 3.14e-04
+2025-07-14 09:53:57,681 - INFO - Batch 60/126, Loss: 0.7031, F1: 0.8750, LR: 3.17e-04
+2025-07-14 09:53:57,809 - INFO - Batch 61/126, Loss: 0.4324, F1: 0.9333, LR: 3.21e-04
+2025-07-14 09:53:57,936 - INFO - Batch 62/126, Loss: 0.3802, F1: 0.9333, LR: 3.24e-04
+2025-07-14 09:53:58,068 - INFO - Batch 63/126, Loss: 0.9335, F1: 0.8571, LR: 3.28e-04
+2025-07-14 09:53:58,195 - INFO - Batch 64/126, Loss: 0.5725, F1: 1.0000, LR: 3.31e-04
+2025-07-14 09:53:58,347 - INFO - Batch 65/126, Loss: 0.2164, F1: 1.0000, LR: 3.34e-04
+2025-07-14 09:53:58,502 - INFO - Batch 66/126, Loss: 0.2898, F1: 1.0000, LR: 3.38e-04
+2025-07-14 09:53:58,638 - INFO - Batch 67/126, Loss: 0.9008, F1: 0.8571, LR: 3.41e-04
+2025-07-14 09:53:58,772 - INFO - Batch 68/126, Loss: 0.5714, F1: 0.8750, LR: 3.45e-04
+2025-07-14 09:53:58,907 - INFO - Batch 69/126, Loss: 0.2310, F1: 0.8571, LR: 3.48e-04
+2025-07-14 09:53:59,122 - INFO - Batch 70/126, Loss: 0.8267, F1: 0.8571, LR: 3.51e-04
+2025-07-14 09:53:59,263 - INFO - Batch 71/126, Loss: 0.7975, F1: 0.7143, LR: 3.55e-04
+2025-07-14 09:53:59,407 - INFO - Batch 72/126, Loss: 0.5801, F1: 0.8750, LR: 3.58e-04
+2025-07-14 09:53:59,536 - INFO - Batch 73/126, Loss: 0.6505, F1: 0.8750, LR: 3.61e-04
+2025-07-14 09:53:59,669 - INFO - Batch 74/126, Loss: 0.6245, F1: 0.8750, LR: 3.64e-04
+2025-07-14 09:53:59,805 - INFO - Batch 75/126, Loss: 0.3156, F1: 1.0000, LR: 3.68e-04
+2025-07-14 09:53:59,942 - INFO - Batch 76/126, Loss: 0.4371, F1: 0.8750, LR: 3.71e-04
+2025-07-14 09:54:00,093 - INFO - Batch 77/126, Loss: 0.2110, F1: 1.0000, LR: 3.74e-04
+2025-07-14 09:54:00,230 - INFO - Batch 78/126, Loss: 0.2966, F1: 0.9412, LR: 3.77e-04
+2025-07-14 09:54:00,365 - INFO - Batch 79/126, Loss: 0.2553, F1: 0.9333, LR: 3.80e-04
+2025-07-14 09:54:00,578 - INFO - Batch 80/126, Loss: 0.6647, F1: 0.7143, LR: 3.83e-04
+2025-07-14 09:54:00,718 - INFO - Batch 81/126, Loss: 0.3654, F1: 0.8750, LR: 3.86e-04
+2025-07-14 09:54:00,860 - INFO - Batch 82/126, Loss: 0.6160, F1: 0.7692, LR: 3.90e-04
+2025-07-14 09:54:01,000 - INFO - Batch 83/126, Loss: 0.5115, F1: 0.8750, LR: 3.93e-04
+2025-07-14 09:54:01,141 - INFO - Batch 84/126, Loss: 0.2758, F1: 0.8000, LR: 3.96e-04
+2025-07-14 09:54:01,297 - INFO - Batch 85/126, Loss: 0.2538, F1: 1.0000, LR: 3.99e-04
+2025-07-14 09:54:01,439 - INFO - Batch 86/126, Loss: 0.3214, F1: 0.8889, LR: 4.01e-04
+2025-07-14 09:54:01,577 - INFO - Batch 87/126, Loss: 0.4802, F1: 0.9412, LR: 4.04e-04
+2025-07-14 09:54:01,718 - INFO - Batch 88/126, Loss: 0.5163, F1: 0.7692, LR: 4.07e-04
+2025-07-14 09:54:01,860 - INFO - Batch 89/126, Loss: 0.2206, F1: 0.9333, LR: 4.10e-04
+2025-07-14 09:54:01,992 - INFO - Batch 90/126, Loss: 0.6788, F1: 0.9333, LR: 4.13e-04
+2025-07-14 09:54:02,131 - INFO - Batch 91/126, Loss: 0.3427, F1: 0.8750, LR: 4.16e-04
+2025-07-14 09:54:02,280 - INFO - Batch 92/126, Loss: 0.1864, F1: 1.0000, LR: 4.18e-04
+2025-07-14 09:54:02,426 - INFO - Batch 93/126, Loss: 0.2831, F1: 0.7143, LR: 4.21e-04
+2025-07-14 09:54:02,565 - INFO - Batch 94/126, Loss: 0.4529, F1: 1.0000, LR: 4.24e-04
+2025-07-14 09:54:02,709 - INFO - Batch 95/126, Loss: 0.3257, F1: 0.8750, LR: 4.26e-04
+2025-07-14 09:54:02,837 - INFO - Batch 96/126, Loss: 0.2570, F1: 0.8000, LR: 4.29e-04
+2025-07-14 09:54:02,985 - INFO - Batch 97/126, Loss: 0.2814, F1: 0.9412, LR: 4.32e-04
+2025-07-14 09:54:03,129 - INFO - Batch 98/126, Loss: 0.3126, F1: 0.9333, LR: 4.34e-04
+2025-07-14 09:54:03,337 - INFO - Batch 99/126, Loss: 0.5584, F1: 0.7692, LR: 4.37e-04
+2025-07-14 09:54:03,472 - INFO - Batch 100/126, Loss: 0.3878, F1: 0.9412, LR: 4.39e-04
+2025-07-14 09:54:03,600 - INFO - Batch 101/126, Loss: 0.3099, F1: 0.9412, LR: 4.41e-04
+2025-07-14 09:54:03,737 - INFO - Batch 102/126, Loss: 0.4550, F1: 0.9333, LR: 4.44e-04
+2025-07-14 09:54:03,883 - INFO - Batch 103/126, Loss: 0.1632, F1: 1.0000, LR: 4.46e-04
+2025-07-14 09:54:04,034 - INFO - Batch 104/126, Loss: 0.2757, F1: 1.0000, LR: 4.48e-04
+2025-07-14 09:54:04,183 - INFO - Batch 105/126, Loss: 0.1727, F1: 0.9333, LR: 4.51e-04
+2025-07-14 09:54:04,334 - INFO - Batch 106/126, Loss: 0.1739, F1: 1.0000, LR: 4.53e-04
+2025-07-14 09:54:04,470 - INFO - Batch 107/126, Loss: 0.2574, F1: 0.8571, LR: 4.55e-04
+2025-07-14 09:54:04,613 - INFO - Batch 108/126, Loss: 0.2269, F1: 0.8571, LR: 4.57e-04
+2025-07-14 09:54:04,742 - INFO - Batch 109/126, Loss: 0.3660, F1: 1.0000, LR: 4.59e-04
+2025-07-14 09:54:04,885 - INFO - Batch 110/126, Loss: 0.2124, F1: 1.0000, LR: 4.61e-04
+2025-07-14 09:54:05,019 - INFO - Batch 111/126, Loss: 0.6819, F1: 0.8571, LR: 4.63e-04
+2025-07-14 09:54:05,147 - INFO - Batch 112/126, Loss: 0.4631, F1: 0.9333, LR: 4.65e-04
+2025-07-14 09:54:05,278 - INFO - Batch 113/126, Loss: 0.3465, F1: 0.9412, LR: 4.67e-04
+2025-07-14 09:54:05,421 - INFO - Batch 114/126, Loss: 0.3016, F1: 0.7692, LR: 4.69e-04
+2025-07-14 09:54:05,558 - INFO - Batch 115/126, Loss: 0.3916, F1: 0.8750, LR: 4.70e-04
+2025-07-14 09:54:05,688 - INFO - Batch 116/126, Loss: 0.2661, F1: 0.8750, LR: 4.72e-04
+2025-07-14 09:54:05,828 - INFO - Batch 117/126, Loss: 0.2638, F1: 1.0000, LR: 4.74e-04
+2025-07-14 09:54:05,952 - INFO - Batch 118/126, Loss: 0.2838, F1: 0.8750, LR: 4.75e-04
+2025-07-14 09:54:06,094 - INFO - Batch 119/126, Loss: 0.1593, F1: 1.0000, LR: 4.77e-04
+2025-07-14 09:54:06,234 - INFO - Batch 120/126, Loss: 0.5380, F1: 0.8571, LR: 4.79e-04
+2025-07-14 09:54:06,396 - INFO - Batch 121/126, Loss: 0.1955, F1: 1.0000, LR: 4.80e-04
+2025-07-14 09:54:06,543 - INFO - Batch 122/126, Loss: 0.2211, F1: 0.7143, LR: 4.81e-04
+2025-07-14 09:54:06,675 - INFO - Batch 123/126, Loss: 0.2154, F1: 0.8750, LR: 4.83e-04
+2025-07-14 09:54:06,835 - INFO - Batch 124/126, Loss: 0.2012, F1: 1.0000, LR: 4.84e-04
+2025-07-14 09:54:07,000 - INFO - Batch 125/126, Loss: 0.2244, F1: 1.0000, LR: 4.85e-04
+2025-07-14 09:54:07,133 - INFO - Batch 126/126, Loss: 0.3883, F1: 0.9333, LR: 4.87e-04
+2025-07-14 09:54:09,082 - INFO - Epoch 3 completed in 19.83s
+2025-07-14 09:54:09,082 - INFO - Train Loss: 0.3947
+2025-07-14 09:54:09,082 - INFO - Val Loss: 0.3017
+2025-07-14 09:54:09,082 - INFO - Train F1: 0.9120
+2025-07-14 09:54:09,082 - INFO - Val F1: 0.8945
+2025-07-14 09:54:09,207 - INFO - ✓ Saved best model
+2025-07-14 09:54:09,207 - INFO - 
+Training completed in 59.83s
+2025-07-14 09:54:09,207 - INFO - Best validation loss: 0.3017
+2025-07-14 09:54:09,208 - INFO - Training completed successfully!
+2025-07-14 09:54:09,208 - INFO - Best validation loss: 0.3017
+2025-07-14 09:54:09,208 - INFO - Results saved to: experiments/simple_real_cpu_20250714_095309

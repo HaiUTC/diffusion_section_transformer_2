@@ -1,0 +1,17 @@
+{
+  "screenshot": "data/6873821bbf939d5d7137a87b/sc_screenshot_mc8tujh8157b4.png",
+  "category": "Hero",
+  "html": "{\"header_\":{\"div@pl_5p@pr_5p_\":{\"div@mr_auto@ml_auto_\":{\"div@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"div@gtr_auto@gc_4r@gr_4r@gtc_1f_1f@ai_center@d_grid@m:gc_3r@m:gr_3r@m:gtc_1f_\":{\"div_\":{\"div@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"h1_\":{\"text\":\"xv173\"}},\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv514\"},\"div@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv567\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv286\"}}}},\"div@gtr_auto@gtc_1f_.75fr@w_100p@d_flex@ps_relative@m:gc_2r@m:gr_2r_\":{\"div@w_45p@ps_absolute@t_auto@b_10p@l_0@r_auto_\":{\"img@ar_3/2@of_cover@w_100p@h_100p_\":{\"src\":\"xv522\"}},\"div@w_100p@ml_15p@mr_15p_\":{\"img@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv340\"}},\"div@w_40p@ps_absolute@t_10p@b_auto@l_auto@r_0_\":{\"img@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv138\"}}}}}}}}}",
+  "section_layout": "{\"section@pl_5p@pr_5p@mr_auto@ml_auto@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"grid@gtr_auto@gc_4r@gr_4r@gtc_1f_1f@ai_center@d_grid@m:gc_3r@m:gr_3r@m:gtc_1f_\":{\"column_\":{\"wrapper_\":{\"wrapper@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"heading_\":{\"text\":\"xv173\"}},\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv514\"},\"wrapper@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv567\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv286\"}}}},\"column_\":{\"wrapper@gtr_auto@gtc_1f_.75fr@w_100p@d_flex@ps_relative@m:gc_2r@m:gr_2r_\":{\"freedom@w_45p@ps_absolute@t_auto@b_10p@l_0@r_auto_\":{\"image@ar_3/2@of_cover@w_100p@h_100p_\":{\"src\":\"xv522\"}},\"wrapper@w_100p@ml_15p@mr_15p_\":{\"image@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv340\"}},\"freedom@w_40p@ps_absolute@t_10p@b_auto@l_auto@r_0_\":{\"image@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv138\"}}}}}}}",
+  "elements_used": [
+    "section",
+    "grid",
+    "column",
+    "wrapper",
+    "heading",
+    "paragraph",
+    "button",
+    "freedom",
+    "image"
+  ]
+}

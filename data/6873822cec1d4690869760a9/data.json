@@ -1,0 +1,17 @@
+{
+  "screenshot": "data/6873822cec1d4690869760a9/sc_screenshot_mc8tugc514jkr.png",
+  "category": "Hero",
+  "html": "{\"header_\":{\"div@pl_5p@pr_5p_\":{\"div@mr_auto@ml_auto_\":{\"div@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"div@gc_4r@gr_4r@gtr_auto@gtc_1f_1f@ai_center@d_grid@m:gc_3r@m:gr_3r@m:gtc_1f_\":{\"div_\":{\"div@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"h1_\":{\"text\":\"xv129\"}},\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv322\"},\"div@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv146\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv242\"}}}},\"div@w_100p@d_flex@ps_relative_\":{\"div@mr_30p_\":{\"img@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv432\"}},\"div@w_50p@ps_absolute@t_10p@b_auto@l_auto@r_0_\":{\"img@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv428\"}}}}}}}}}",
+  "section_layout": "{\"section@pl_5p@pr_5p@mr_auto@ml_auto@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"grid@gc_4r@gr_4r@gtr_auto@gtc_1f_1f@ai_center@d_grid@m:gc_3r@m:gr_3r@m:gtc_1f_\":{\"column_\":{\"wrapper_\":{\"wrapper@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"heading_\":{\"text\":\"xv129\"}},\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv322\"},\"wrapper@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv146\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv242\"}}}},\"column_\":{\"wrapper@w_100p@d_flex@ps_relative_\":{\"wrapper@mr_30p_\":{\"image@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv432\"}},\"freedom@w_50p@ps_absolute@t_10p@b_auto@l_auto@r_0_\":{\"image@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv428\"}}}}}}}",
+  "elements_used": [
+    "section",
+    "grid",
+    "column",
+    "wrapper",
+    "heading",
+    "paragraph",
+    "button",
+    "image",
+    "freedom"
+  ]
+}

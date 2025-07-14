@@ -1,0 +1,4 @@
+2025-07-14 09:52:57,282 - INFO - Trainer initialized for device: cpu
+2025-07-14 09:52:57,283 - INFO - Creating CPU-optimized models...
+2025-07-14 09:52:57,303 - INFO - Total parameters: 3,462,608 (CPU optimized)
+2025-07-14 09:52:57,304 - INFO - Training setup complete. Learning rate: 0.001

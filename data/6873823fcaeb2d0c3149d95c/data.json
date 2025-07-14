@@ -1,0 +1,14 @@
+{
+  "screenshot": "data/6873823fcaeb2d0c3149d95c/sc_screenshot_mc8tua10127fz.png",
+  "category": "Hero",
+  "html": "{\"header_\":{\"div@pl_5p@pr_5p_\":{\"div@mr_auto@ml_auto_\":{\"div@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"div_\":{\"div@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_5r@t:m_4.5r@m:m_3r_\":{\"div@ml_5p_\":{\"div@w_100p@xw_48r_\":{\"div@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"h1_\":{\"text\":\"xv731\"}},\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv994\"},\"div@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv349\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv033\"}}}}}},\"div@gc_4r@gr_4r@gtr_auto@gtc_1f_1f@jc_flex-end@d_flex@m:gc_2r@m:gr_2r_\":{\"div@w_100p@xw_60r@t:xw_35r_\":{\"img@ar_3/2@of_cover@w_100p@h_100p_\":{\"src\":\"xv905\"}}}}}}}}}",
+  "section_layout": "{\"section@pl_5p@pr_5p@mr_auto@ml_auto@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"wrapper_\":{\"wrapper@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_5r@t:m_4.5r@m:m_3r@ml_5p@w_100p@xw_48r_\":{\"wrapper@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"heading_\":{\"text\":\"xv731\"},\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv994\"}},\"wrapper@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv349\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv033\"}}},\"wrapper@gc_4r@gr_4r@gtr_auto@gtc_1f_1f@jc_flex-end@d_flex@m:gc_2r@m:gr_2r@w_100p@xw_60r@t:xw_35r_\":{\"image@ar_3/2@of_cover@w_100p@h_100p_\":{\"src\":\"xv905\"}}}}}",
+  "elements_used": [
+    "section",
+    "wrapper",
+    "heading",
+    "paragraph",
+    "button",
+    "image"
+  ]
+}

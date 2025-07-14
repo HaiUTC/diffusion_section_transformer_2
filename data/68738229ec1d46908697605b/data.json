@@ -1,0 +1,14 @@
+{
+  "screenshot": "data/68738229ec1d46908697605b/sc_screenshot_mc8tljwx4vwh.png",
+  "category": "Hero",
+  "html": "{\"header@bc_#fff@c_#000_\":{\"div@fd_column@h_100svh@mh_100svh@d_flex@m:h_auto_\":{\"div@ps_relative_\":{\"a@jc_center@ai_center@d_flex@ps_absolute@i_0@of_cover@w_100p@h_100p@xw_100p@d_inline-block_\":{\"img@of_cover@w_100p@h_100p_\":{\"src\":\"xv528\"},\"div@z_2@c_#fff@jc_center@ai_center@d_flex@ps_absolute_\":{\"div@fd_column@jc_center@ai_center@w_5r@h_5r@d_flex_\":{\"svg._\":{\"path._\":{},\"svg\":\"xv405\"}}},\"div@z_1@bc_#00000080@ps_absolute@i_0_\":{}}},\"div@pl_5p@pr_5p_\":{\"div@w_100p@xw_80r@ml_auto@mr_auto_\":{\"div@pl_0@pr_0@t:pl_0@t:pr_0@m:pl_0@m:pr_0@p_5r@t:p_4.5r@m:p_3r_\":{\"div@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_5r@gr_4r@gtr_auto@gtc_1f_1f@ai_start@d_grid@t:gc_3r@t:gr_2r@m:gc_1.25r@m:gr_1.25r@m:gtc_1f_\":{\"div_\":{\"h1@fs_3.5r@fw_700@lh_1.2@t:fs_3.25r@m:fs_2.5r_\":{\"text\":\"xv891\"}},\"div_\":{\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv839\"},\"div@mb_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@gc_1r@gr_1r@fw_wrap@ai_center@d_flex_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv306\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv072\"}}}}}}}}}}}",
+  "section_layout": "{\"section@bc_#fff@c_#000_\":{\"wrapper@fd_column@h_100svh@mh_100svh@d_flex@m:h_auto_\":{\"wrapper@ps_relative@jc_center@ai_center@d_flex@ps_absolute@i_0@of_cover@w_100p@h_100p@xw_100p@d_inline-block_\":{\"video@of_cover@w_100p@h_100p_\":{}},\"wrapper@pl_5p@pr_5p@w_100p@xw_80r@ml_auto@mr_auto@pl_0@pr_0@t:pl_0@t:pr_0@m:pl_0@m:pr_0@p_5r@t:p_4.5r@m:p_3r@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_5r@gr_4r@gtr_auto@gtc_1f_1f@ai_start@d_grid@t:gc_3r@t:gr_2r@m:gc_1.25r@m:gr_1.25r@m:gtc_1f_\":{\"wrapper_\":{\"heading@fs_3.5r@fw_700@lh_1.2@t:fs_3.25r@m:fs_2.5r_\":{\"text\":\"xv891\"}},\"wrapper_\":{\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv839\"},\"wrapper@mb_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@gc_1r@gr_1r@fw_wrap@ai_center@d_flex_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv306\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv072\"}}}}}}}",
+  "elements_used": [
+    "section",
+    "wrapper",
+    "video",
+    "heading",
+    "paragraph",
+    "button"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "screenshot": "data/687381f356e33ec3bd967097/sc_screenshot_mc8ttznp9rje.png",
+  "category": "Hero",
+  "html": "{\"header_\":{\"div@pl_5p@pr_5p_\":{\"div@mr_auto@ml_auto_\":{\"div@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"div_\":{\"div@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_5r@t:m_4.5r@m:m_3r_\":{\"div@ml_5p_\":{\"div@w_100p@xw_48r_\":{\"div@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"h1_\":{\"text\":\"xv704\"}},\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv835\"},\"div@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv449\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv109\"}}}}}},\"div@gc_2r@gr_2r@gtr_auto@gtc_.4fr_1f_.4fr@ai_end@d_grid@m:mt_3r@m:gc_0@m:gr_0@m:gtc_1f_\":{\"div@w_100p_\":{\"img@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv872\"}},\"div@w_100p@mt_15p@mb_15p_\":{\"img@ar_1@of_cover@w_100p@h_100p@m:mt_10p@m:mb_10p_\":{\"src\":\"xv697\"}},\"div@w_100p_\":{\"img@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv298\"}}}}}}}}}",
+  "section_layout": "{\"section@pl_5p@pr_5p@mr_auto@ml_auto@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"wrapper_\":{\"wrapper@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_5r@t:m_4.5r@m:m_3r@ml_5p@w_100p@xw_48r_\":{\"wrapper@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"heading_\":{\"text\":\"xv704\"},\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv835\"}},\"wrapper@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv449\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv109\"}}},\"grid@gc_2r@gr_2r@gtr_auto@gtc_.4fr_1f_.4fr@ai_end@d_grid@m:mt_3r@m:gc_0@m:gr_0@m:gtc_1f_\":{\"column_\":{\"wrapper@w_100p_\":{\"image@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv872\"}}},\"column_\":{\"wrapper@w_100p@mt_15p@mb_15p_\":{\"image@ar_1@of_cover@w_100p@h_100p@m:mt_10p@m:mb_10p_\":{\"src\":\"xv697\"}}},\"column_\":{\"wrapper@w_100p_\":{\"image@ar_1@of_cover@w_100p@h_100p_\":{\"src\":\"xv298\"}}}}}}}",
+  "elements_used": [
+    "section",
+    "wrapper",
+    "heading",
+    "paragraph",
+    "button",
+    "grid",
+    "column",
+    "image"
+  ]
+}

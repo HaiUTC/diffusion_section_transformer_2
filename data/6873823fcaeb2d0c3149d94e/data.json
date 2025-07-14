@@ -1,0 +1,16 @@
+{
+  "screenshot": "data/6873823fcaeb2d0c3149d94e/sc_screenshot_mc8ttlps5fj4.png",
+  "category": "Hero",
+  "html": "{\"header_\":{\"div@pl_5p@pr_5p_\":{\"div@mr_auto@ml_auto_\":{\"div@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"div_\":{\"div@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_5r@t:m_4.5r@m:m_3r_\":{\"div@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_5r@gr_5r@gtr_auto@gtc_1f_1f@ai_start@d_grid@t:gc_3r@m:gc_1.25r@m:gr_1.25r@m:gtc_1f_\":{\"div@fd_column@d_flex_\":{\"h1_\":{\"text\":\"xv027\"}},\"div@fd_column@d_flex@jc_flex-end@mt_12r@ml_7.5p@mr_7.5p@m:mt_0_\":{\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv874\"},\"div@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv658\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv415\"}}}}}},\"div@gc_4r@gr_4r@gtr_auto@gtc_.33fr_1f@ai_start@d_grid@m:gc_2r@m:gr_2r_\":{\"div@w_100p_\":{\"img@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv626\"}},\"div@w_100p@mt_10p_\":{\"img@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv788\"}}}}}}}}}",
+  "section_layout": "{\"section@pl_5p@pr_5p@mr_auto@ml_auto@pt_7r@pb_7r@t:pt_6r@t:pb_6r@m:pt_4r@m:pb_4r_\":{\"wrapper_\":{\"wrapper@mr_0@ml_0@mt_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_5r@t:m_4.5r@m:m_3r_\":{\"grid@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_5r@gr_5r@gtr_auto@gtc_1f_1f@ai_start@d_grid@t:gc_3r@m:gc_1.25r@m:gr_1.25r@m:gtc_1f_\":{\"column_\":{\"wrapper@fd_column@d_flex_\":{\"heading_\":{\"text\":\"xv027\"}}},\"column_\":{\"wrapper@fd_column@d_flex@jc_flex-end@mt_12r@ml_7.5p@mr_7.5p@m:mt_0_\":{\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv874\"},\"wrapper@mr_0@ml_0@mb_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@ai_center@d_flex@gc_1r@gr_1r@fw_wrap_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv658\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv415\"}}}}}},\"grid@gc_4r@gr_4r@gtr_auto@gtc_.33fr_1f@ai_start@d_grid@m:gc_2r@m:gr_2r_\":{\"column_\":{\"wrapper@w_100p_\":{\"image@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv626\"}}},\"column_\":{\"wrapper@w_100p@mt_10p_\":{\"image@ar_2/3@of_cover@w_100p@h_100p_\":{\"src\":\"xv788\"}}}}}}}",
+  "elements_used": [
+    "section",
+    "wrapper",
+    "grid",
+    "column",
+    "heading",
+    "paragraph",
+    "button",
+    "image"
+  ]
+}

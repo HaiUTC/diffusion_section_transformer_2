@@ -1,0 +1,16 @@
+{
+  "screenshot": "data/6873822bec1d469086976083/sc_screenshot_mc8tntiz24czr.png",
+  "category": "Hero",
+  "html": "{\"header_\":{\"div@pl_5p@pr_5p_\":{\"div@w_100p@xw_80r@ml_auto@mr_auto_\":{\"div@pt_5r@pb_5r@t:pt_4r@t:pb_4r@m:pt_3r@m:pb_3r_\":{\"div@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_2r@gr_2r@gtr_auto@gtc_1f@m:gc_1.5r@m:gr_1.5r_\":{\"div@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_0@gr_0@b_1x_solid_#000@gtr_auto@gtc_1f_1f@ai_stretch@d_grid@t:gtc_1f@t:mh_auto@m:gtc_1f_\":{\"div@jc_center@ai_center@d_flex_\":{\"a@jc_center@ai_center@w_100p@d_flex@ps_relative@xw_100p@d_inline-block_\":{\"img@of_cover@t:of_cover@t:w_100p@t:h_100p_\":{\"src\":\"xv319\"},\"div@jc_center@ai_center@d_flex@z_2@c_#fff@ps_absolute_\":{\"div@fd_column@jc_center@ai_center@w_5r@h_5r@d_flex_\":{\"svg._\":{\"path._\":{},\"svg\":\"xv362\"}}},\"div@z_1@bc_#000000@ps_absolute@t_0@b_0@l_0@r_0_\":{}}},\"div@fd_column@jc_center@p_3r@d_flex@m:p_2r_\":{\"div_\":{\"div@mt_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"h1_\":{\"text\":\"xv354\"}},\"p@fs_1.125r@m:fs_1r_\":{\"text\":\"xv978\"}},\"div@mb_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r_\":{\"div@gc_1r@gr_1r@fw_wrap@ai_center@d_flex_\":{\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv036\"},\"a@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none.w-@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none_\":{\"text\":\"xv561\"}}}}}}}}}}}",
+  "section_layout": "{\"section@pl_5p@pr_5p@w_100p@xw_80r@ml_auto@mr_auto@pt_5r@pb_5r@t:pt_4r@t:pb_4r@m:pt_3r@m:pb_3r_\":{\"grid@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_2r@gr_2r@gtr_auto@gtc_1f@m:gc_1.5r@m:gr_1.5r_\":{\"column_\":{\"wrapper@gr_16x@gc_16x@gtr_auto_auto@gtc_1f_1f@d_grid@gc_0@gr_0@b_1x_solid_#000@gtr_auto@gtc_1f_1f@ai_stretch@d_grid@t:gtc_1f@t:mh_auto@m:gtc_1f@jc_center@ai_center@d_flex_\":{\"wrapper@jc_center@ai_center@w_100p@d_flex@ps_relative@xw_100p@d_inline-block_\":{\"video@of_cover@t:of_cover@t:w_100p@t:h_100p_\":{}}}},\"column_\":{\"wrapper@fd_column@jc_center@p_3r@d_flex@m:p_2r_\":{\"wrapper_\":{\"wrapper@mt_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mt_0@m:ml_0@m:mr_0@m:mt_0@m_1.5r@m:m_1.25r_\":{\"heading_\":{\"text\":\"xv354\"}},\"paragraph@fs_1.125r@m:fs_1r_\":{\"text\":\"xv978\"}},\"wrapper@mb_0@ml_0@mr_0@t:ml_0@t:mr_0@t:mb_0@m:ml_0@m:mr_0@m:mb_0@m_2r@m:m_1.5r@gc_1r@gr_1r@fw_wrap@ai_center@d_flex_\":{\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv036\"},\"button@b_1x_solid_#000@bc_#000@c_#fff@ta_center@p_.75rem_1.5r@td_none@c_#fff@lh_inherit@bc_#3898ec@b_0@br_0@p_9x_15x@td_none@d_inline-block_\":{\"text\":\"xv561\"}}}}}}}",
+  "elements_used": [
+    "section",
+    "grid",
+    "column",
+    "wrapper",
+    "video",
+    "heading",
+    "paragraph",
+    "button"
+  ]
+}
