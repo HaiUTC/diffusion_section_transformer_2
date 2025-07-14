@@ -21,13 +21,62 @@ from datetime import datetime
 
 # Import our modules
 import sys
-sys.path.append('../models')
-from output_generation import OutputGenerationModule, MultiTaskLossFunction
-from multimodal_fusion import MultimodalLayoutFusion
+from pathlib import Path
+
+# Add the correct paths for imports - with debugging for Colab
+current_dir = Path(__file__).parent
+print(f"Current directory: {current_dir}")
+print(f"Parent directory: {current_dir.parent}")
+
+# Try multiple path approaches for Colab compatibility
+models_path = current_dir.parent / 'models'
+data_path = current_dir.parent / 'data'
+
+print(f"Models path: {models_path}")
+print(f"Data path: {data_path}")
+print(f"Models path exists: {models_path.exists()}")
+print(f"Data path exists: {data_path.exists()}")
+
+# Add to sys.path
+sys.path.insert(0, str(models_path))
+sys.path.insert(0, str(data_path))
+
+# Also try relative to the project root for Colab
+project_root = current_dir.parent.parent
+print(f"Project root: {project_root}")
+sys.path.insert(0, str(project_root / 'dst' / 'models'))
+sys.path.insert(0, str(project_root / 'dst' / 'data'))
+
+print(f"Python path: {sys.path[:5]}")  # Show first 5 entries
+
+try:
+    from output_generation import OutputGenerationModule, MultiTaskLossFunction
+    print("✓ Successfully imported output_generation")
+except ImportError as e:
+    print(f"✗ Failed to import output_generation: {e}")
+    
+try:
+    from multimodal_fusion import MultimodalLayoutFusion
+    print("✓ Successfully imported multimodal_fusion")
+except ImportError as e:
+    print(f"✗ Failed to import multimodal_fusion: {e}")
 
 # Import real dataset
-sys.path.append('../data')
-from real_dataset import RealDataset, create_real_dataset_splits, real_collate_fn
+try:
+    from real_dataset import RealDataset, create_real_dataset_splits, real_collate_fn
+    print("✓ Successfully imported real_dataset")
+except ImportError as e:
+    print(f"✗ Failed to import real_dataset: {e}")
+    # Try alternative import
+    try:
+        import real_dataset
+        RealDataset = real_dataset.RealDataset
+        create_real_dataset_splits = real_dataset.create_real_dataset_splits
+        real_collate_fn = real_dataset.real_collate_fn
+        print("✓ Successfully imported real_dataset (alternative method)")
+    except ImportError as e2:
+        print(f"✗ Alternative import also failed: {e2}")
+        raise
 
 # Set up logging
 logging.basicConfig(
