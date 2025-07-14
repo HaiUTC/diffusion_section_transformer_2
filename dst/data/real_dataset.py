@@ -163,17 +163,19 @@ class RealDataset(Dataset):
         """Load all data samples from directory"""
         samples = []
         
-        # Find all example directories
-        example_dirs = [d for d in self.data_dir.iterdir() 
-                       if d.is_dir() and d.name.startswith('example_')]
+        # Find all directories that contain data.json and a PNG file
+        all_dirs = [d for d in self.data_dir.iterdir() if d.is_dir()]
         
-        logger.info(f"Found {len(example_dirs)} example directories")
+        logger.info(f"Found {len(all_dirs)} directories to check")
         
-        for example_dir in sorted(example_dirs):
+        for example_dir in sorted(all_dirs):
             data_file = example_dir / 'data.json'
-            screenshot_file = example_dir / 'screenshot.png'
             
-            if data_file.exists() and screenshot_file.exists():
+            # Find any PNG file in the directory
+            png_files = list(example_dir.glob('*.png'))
+            screenshot_file = png_files[0] if png_files else None
+            
+            if data_file.exists() and screenshot_file:
                 try:
                     with open(data_file, 'r') as f:
                         data = json.load(f)
@@ -186,7 +188,7 @@ class RealDataset(Dataset):
                             'screenshot_file': str(screenshot_file),
                             'html': data['html'],
                             'section_layout': data['section_layout'],
-                            'used_elements': data['elements_used'],
+                            'used_elements': data['elements_used'],  # Map from elements_used to used_elements
                             'category': data['category'],
                             'sample_id': example_dir.name
                         }
@@ -197,8 +199,12 @@ class RealDataset(Dataset):
                 except Exception as e:
                     logger.error(f"Error loading {data_file}: {e}")
             else:
-                logger.warning(f"Missing files in {example_dir}")
+                if not data_file.exists():
+                    logger.debug(f"No data.json in {example_dir}")
+                if not screenshot_file:
+                    logger.debug(f"No PNG file in {example_dir}")
         
+        logger.info(f"Successfully loaded {len(samples)} valid samples")
         return samples
     
     def _build_vocabulary(self):
